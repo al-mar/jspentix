@@ -1,7 +1,9 @@
 # jsmines
-A JavaScript implementation of Pentix video game.
+A JavaScript version of Pentix video game.
 
 The original version of this game was released for DOS by Marta & Adrian Soncodi in 1986.
+
+In this implementation I tried to reproduce some key aspects of the original game. It wasn't my intention to make a full clone of the program. I just tried some programming techniques in an entertaining way. But I love the result and play it from time to time.
 
 You can use the following keys:
 
